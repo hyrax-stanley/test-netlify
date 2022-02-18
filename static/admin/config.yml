@@ -2,6 +2,8 @@ backend:
   name: github
   repo: hyrax-stanley/test-netlify
   branch: main
+  base_url: https://condescending-knuth-ca98c4.netlify.app
+  auth_endpoint: api/auth
 media_folder: static/img
 public_folder: /img
 collections:
